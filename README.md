@@ -1,5 +1,9 @@
 # 🖼️ Clasificador de Imágenes CIFAR-10 con JAX y Streamlit
 
+### 📝 Archivo de Documentación del Ejercicio de Investigación
+
+El archivo **`JAX_investigacion_German_GE.ipynb`** es el cuaderno Jupyter donde se documenta todo el proceso del ejercicio de investigación relacionado con JAX.
+
 [![Aplicación en vivo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cifar-10-clasificador.streamlit.app/)
 [![Documentación en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rv-4nDLlBcMR7qC8RIs3P_tuWeAGXVZt?usp=sharing)
 
