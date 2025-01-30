@@ -104,9 +104,6 @@ La aplicación estará disponible en `http://localhost:8501`
 
 ```
 ejemplo_jax/
-├── data/                     # Datos de entrenamiento y prueba
-│   ├── cifar10_test.joblib
-│   └── cifar10_train.joblib
 ├── models/                   # Modelos pre-entrenados
 │   └── robust_cifar10_model.joblib
 ├── streamlit_app.py         # Aplicación web principal
