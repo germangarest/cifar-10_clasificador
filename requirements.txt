@@ -2,7 +2,7 @@ streamlit==1.29.0
 jax==0.4.13
 jaxlib==0.4.17
 flax==0.7.0
-tensorflow==2.16.0
+tensorflow==2.17.0
 tensorflow-datasets==4.9.2
 optax==0.1.7
 Pillow==10.1.0
