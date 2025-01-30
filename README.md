@@ -1,7 +1,7 @@
 # 🖼️ Clasificador de Imágenes CIFAR-10 con JAX y Streamlit
 
-[![Aplicación en vivo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
-[![Documentación en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+[![Aplicación en vivo](https://cifar-10-clasificador.streamlit.app/)]
+[![Documentación en Google Colab](https://colab.research.google.com/drive/1rv-4nDLlBcMR7qC8RIs3P_tuWeAGXVZt?usp=sharing)]
 
 ![CIFAR-10](img/cifar-10.jpg)
 
